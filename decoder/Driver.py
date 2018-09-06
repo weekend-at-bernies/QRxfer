@@ -7,6 +7,7 @@
 # OTHER DEPENDENCIES:
 # WorkerManager.pyc
 # FilePathWrapper.pyc
+# FileHasher.pyc
 
 
 #!/usr/bin/python
