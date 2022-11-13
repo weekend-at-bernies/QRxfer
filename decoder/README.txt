@@ -10,3 +10,12 @@ TO DO:
 - Verify these:
   expected_num_rows = -1             # Expected number of rows / QR code matrix (set to -1 otherwise this value is enforced)
   expected_num_cols = -1 
+
+
+
+NAME OF PROJECT: stegosaurus
+
+WHY:
+
+steg => steganography
+saurus => ancient/primitive (the paper)

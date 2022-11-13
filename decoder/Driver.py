@@ -8,7 +8,7 @@
 # WorkerManager.pyc
 # FilePathWrapper.pyc
 # FileHasher.pyc
-
+# QuantizedInt.pyc
 
 #!/usr/bin/python
 
