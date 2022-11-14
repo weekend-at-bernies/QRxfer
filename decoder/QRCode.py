@@ -4,7 +4,7 @@ import Settings
 import PIL
 from PIL import Image
 import cv2
-import cv
+#import cv
 import zbar
 import os
 import sys

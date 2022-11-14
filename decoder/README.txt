@@ -4,6 +4,9 @@ $ cp test.pdf /tmp
 $ rm -rf /tmp/bif
 $ python Driver.py -i /tmp/test.pdf -o /tmp/bif -v
 
+$ md5sum /tmp/bif/out.bin
+153097343af377cac9984ff139bf9b01          <--- this is the MD5 sum you should expect to see
+
 TO DO:
 - Implement better verbosity via: -v
 - Check if FilePathWrapper is REALLY necessary
